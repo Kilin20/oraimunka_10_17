@@ -1,0 +1,18 @@
+img{
+    /*szélesség*/
+    width: 50px;
+    /*magasság*/
+    /*height: auto;*/
+    height: 40px;
+}
+
+
+#vettel{
+        width: 30%;
+        height: auto;
+}
+
+#hamilton{
+    width: 30%;
+    height: auto;
+}
